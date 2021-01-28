@@ -87,12 +87,3 @@ x = np.arange(400, 600, 0.5)
 plt.plot(x, poisson.pmf(x, mu))
 
 
-# ## Pop Quiz!
-
-# What's the equivalent of a probability distribution function when using discrete instead of continuous data?
-
-# In[ ]:
-
-
-
-
